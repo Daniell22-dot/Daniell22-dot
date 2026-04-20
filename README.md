@@ -10,11 +10,11 @@ I'm a GIS and Geomatic Engineering Student at DEDAN KIMATHI UNIVERSITY. With a b
 
 | Category | Tools |
 |----------|-------|
-| **Desktop GIS** | ![QGIS](https://img.shields.io/badge/QGIS-3.34-589632?style=for-the-badge&logo=qgis&logoColor=white) ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-3.x-2C5A8C?style=for-the-badge&logo=esri&logoColor=white) |
-| **Data & Stats** | ![R](https://img.shields.io/badge/R-4.x-276DC3?style=for-the-badge&logo=r&logoColor=white) ![R Studio](https://img.shields.io/badge/R_Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) |
-| **Programming** | ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Desktop GIS** | ![QGIS](https://img.shields.io/badge/QGIS-3.40.x-589632?style=for-the-badge&logo=qgis&logoColor=white) ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-3.x-2C5A8C?style=for-the-badge&logo=esri&logoColor=white) |
+| **Data & Stats** | ![R](https://img.shields.io/badge/R-4.5.x-276DC3?style=for-the-badge&logo=r&logoColor=white) ![R Studio](https://img.shields.io/badge/R_Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) |
+| **Programming** | ![Python](https://img.shields.io/badge/Python-3.14.x-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 | **Web Dev** | ![React](https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-3.x-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-3.35-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
 
 ---
 
