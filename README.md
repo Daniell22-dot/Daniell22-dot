@@ -24,6 +24,8 @@ I'm a GIS and Geomatic Engineering Student at DEDAN KIMATHI UNIVERSITY. With a b
 - Automating GIS workflows with **Python** (geopandas, rasterio)
 - Spatial statistics and predictive modeling in **R**
 - Writing technical articles about GIS and data science on **Medium**
+- Building an Ecommerce Agrolink Market Place with **React**,**Python**
+- Building a Postgres Manager with **Javascript** + **Electron JS**
 
 ---
 
