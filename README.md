@@ -21,7 +21,7 @@ I'm a GIS and Geomatic Engineering Student at DEDAN KIMATHI UNIVERSITY. With a b
 ## 📈 What I'm Currently Working On
 
 - Building interactive web maps with **React** and **MapLibre GL**
-- Automating GIS workflows with **Python** (geopandas, rasterio)
+- Automating GIS workflows with **Python** (geopandas, rasterio). **GeoSuite Platform **
 - Spatial statistics and predictive modeling in **R**
 - Writing technical articles about GIS and data science on **Medium**
 - Building an Ecommerce Agrolink Market Place with **React**,**Python**
