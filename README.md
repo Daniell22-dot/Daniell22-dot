@@ -61,6 +61,7 @@ Check out my latest articles on GIS, spatial analysis, and data science:
 - 📍 I believe every dataset has a location component worth exploring
 - 🌱 Currently learning: **Docker** and **Cloud GIS** (AWS/Azure)
 - ⚡ Fun fact: A good map tells a story before you read a single word
+- ⚡ Double fun fact: You can run PostgREST and have a REST API from your database in under 5 minutes
 
 ---
 
